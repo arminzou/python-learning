@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ArminZou/.ssh/id_ed25519",
+		"/C/Users/ArminZou/.ssh/id_ed25519.pub",
+		"/C/Users/ArminZou/.ssh/id_rsa.pub",
+		"/C/Users/ArminZou/.ssh/id_rsa",
+		"/C/Users/ArminZou/Desktop/test.txt",
+		"/C/Users/ArminZou/Desktop/Recent Docs/Klaviyo.txt",
+		"/C/Users/ArminZou/.vscode/extensions/ms-dotnettools.csharp-1.24.4-win32-x64/snippets/csharp.json",
+		"/C/Users/ArminZou/Desktop/Workday.txt",
+		"/C/Users/ArminZou/Desktop/Klaviyo.txt",
+		"/C/Users/ArminZou/Desktop/standup-update.txt",
+		"/C/Users/ArminZou/Desktop/New Text Document.txt",
+		"/C/Users/ArminZou/Desktop/Deployment/jump server.txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (40).txt",
+		"/C/Users/ArminZou/Desktop/Filemaker export.txt",
+		"/C/Users/ArminZou/Desktop/Appointment.txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (41).txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (42).txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (43).txt",
+		"/C/Users/ArminZou/Desktop/Levin issue.txt",
+		"/C/php/php.ini",
+		"/C/Users/ArminZou/Desktop/Dynamics 3SD Sprint.txt",
+		"/C/Users/ArminZou/Desktop/myfile.txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (39).txt",
+		"/C/Users/ArminZou/Desktop/pytontest.txt",
+		"/C/Users/ArminZou/Desktop/mysqltest.php",
+		"/C/Users/ArminZou/AppData/Local/Temp/Temp1_httpd-2.4.52-win64-VS16.zip/ReadMe.txt",
+		"/C/Users/ArminZou/Desktop/Dev Notes/jump server.txt",
+		"/C/Users/ArminZou/Desktop/House writeup.txt",
+		"/C/Users/ArminZou/Desktop/sample json.txt",
+		"/C/Users/ArminZou/Desktop/New Text Document (2).txt",
+		"/C/Users/ArminZou/Desktop/Twilio widget.txt",
+		"/C/Users/ArminZou/Desktop/DPInvoices.txt",
+		"/C/Users/ArminZou/source/repos/diy-integration/DIYIntegration/DPInvoices.edmx",
+		"/C/logs/service_log.txt",
+		"/C/logs/OAuth2SampleAppLogs.txt",
+		"/C/Users/ArminZou/Desktop/QuickBooks.txt",
+		"/C/Users/ArminZou/Desktop/Magento Migration.txt",
+		"/C/Users/ArminZou/Desktop/lawn service.txt",
+		"/C/Users/ArminZou/Desktop/Captorra/kronos.txt",
+		"/C/Users/ArminZou/Desktop/Levin changes.txt",
+		"/C/Users/ArminZou/Desktop/Lerner&Rowe.txt",
+		"/C/php/php.ini-development",
+		"/C/Users/ArminZou/Desktop/Document/twilio calling similation.txt",
+		"/C/Users/ArminZou/Desktop/Simulring.txt",
+		"/C/Users/ArminZou/Desktop/Nodejs post.txt",
+		"/C/Users/ArminZou/Desktop/Twilio TaskRouter.txt",
+		"/C/Users/ArminZou/Desktop/Twilio update note.txt",
+		"/C/Users/ArminZou/Desktop/List of requirements.txt",
+		"/C/Users/ArminZou/Desktop/Migration-Note.txt",
+		"/C/Users/ArminZou/Desktop/Debug.txt",
+		"/C/Users/ArminZou/Desktop/Parmele Law Firm.txt",
+		"/C/Users/ArminZou/Desktop/PI-Trial.txt",
+		"/C/Users/ArminZou/Desktop/LevinLaw.txt",
+		"/C/Users/ArminZou/Desktop/new-change/CaptorraTwilioTaskRouterService.cs.txt",
+		"/C/Users/ArminZou/Desktop/new-change/CaptorraTwilioTaskRouterController.cs.txt",
+		"/C/Users/ArminZou/Desktop/new-change/EditCaptorraTwilioTaskRouterWorker.cshtml.txt",
+		"/C/Users/ArminZou/Desktop/new-change/DeleteCaptorraTwilioTaskRouterWorker.cshtml.txt",
+		"/C/Users/ArminZou/Desktop/new-change/CaptorraTwilioTaskRouterConfig.cs.txt",
+		"/C/Users/ArminZou/Desktop/new-change/CaptorraTaskRouterWorker.cs.txt",
+		"/C/Users/ArminZou/Desktop/new change/CaptorraTwilioTaskRouterWorkers.txt",
+		"/C/Users/ArminZou/Desktop/new change/CaptorraTwilioTaskRouterService.txt",
+		"/C/Users/ArminZou/Desktop/new change/CaptorraTaskRouterWorker.txt",
+		"/C/Users/ArminZou/Desktop/new change/CaporraTwilioTaskRouterController.txt",
+		"/C/Users/ArminZou/Desktop/new-table-script.txt",
+		"/C/Users/ArminZou/Desktop/CaptorraTwilioTaskRouterConfig.txt",
+		"/C/Users/ArminZou/Desktop/JSPDF.txt",
+		"/C/Users/ArminZou/Downloads/TestTwilio (1).txt",
+		"/C/Users/ArminZou/Downloads/TestTwilio.txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (23).txt",
+		"/C/Users/ArminZou/Desktop/Trialsoft Modification.txt",
+		"/C/Users/ArminZou/Desktop/FV2.txt",
+		"/C/Users/ArminZou/Desktop/flooring.txt",
+		"/C/Users/ArminZou/Desktop/Utilities.txt",
+		"/C/Users/ArminZou/Desktop/Statements.txt",
+		"/C/Users/ArminZou/Desktop/New Text Document (3).txt",
+		"/C/Users/ArminZou/Desktop/Filevine V2.txt",
+		"/C/Users/ArminZou/Desktop/door replacement.txt",
+		"/C/Users/ArminZou/Desktop/Pay note.txt",
+		"/C/Users/ArminZou/Desktop/Dev Notes/standup-update.txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (38).txt",
+		"/C/Users/ArminZou/Desktop/twilio-function-cli-commands.txt",
+		"/C/Users/ArminZou/Desktop/trail soft.txt",
+		"/C/Users/ArminZou/Desktop/Annotation/ANNOTATION-API.txt",
+		"/C/Users/ArminZou/Desktop/FilevinV2Service.txt",
+		"/C/Users/ArminZou/Downloads/FilevinV2Service.txt",
+		"/C/Users/ArminZou/Desktop/FilevineV2Service.txt",
+		"/C/Users/ArminZou/Desktop/twilio-function-cli.txt",
+		"/C/Users/ArminZou/Desktop/function configure.txt",
+		"/C/Users/ArminZou/Desktop/Filevine.txt",
+		"/C/Users/ArminZou/Desktop/question.txt",
+		"/C/Users/ArminZou/Desktop/Quarterly Update.txt",
+		"/C/Users/ArminZou/Desktop/FilevineV2FieldMappingsService.txt",
+		"/C/Users/ArminZou/Desktop/ApplicationLogsMap.txt",
+		"/C/Users/ArminZou/Desktop/ApplicationLogsService.txt",
+		"/C/Users/ArminZou/Desktop/CustomerInfoMap.txt",
+		"/C/Users/ArminZou/Desktop/ICEDataMappingsService.txt",
+		"/C/Users/ArminZou/Desktop/ICECRM2APIDBContext.txt",
+		"/C/Users/ArminZou/Desktop/ICEAPIDBContext.txt",
+		"/C/Users/ArminZou/Desktop/filevineV2Service.txt",
+		"/C/Users/ArminZou/Downloads/FilevineV2Service.txt",
+		"/C/Users/ArminZou/Downloads/ErrorDetails (37).txt",
+		"/C/Users/ArminZou/Downloads/CapTwilio (1).txt",
+		"/C/Users/ArminZou/Downloads/CapTwilio.txt",
+		"/C/Users/ArminZou/Downloads/filevinev2.txt",
+		"/C/Users/ArminZou/Desktop/Dev Notes/calllog (2).txt",
+		"/C/Users/ArminZou/Desktop/Twilio Detail.txt",
+		"/C/Users/ArminZou/Desktop/Twilio demo .txt",
+		"/C/Users/ArminZou/Desktop/calllog (2).txt",
+		"/C/Users/ArminZou/Desktop/calllog.txt",
+		"/C/Users/ArminZou/Desktop/Twilio note.txt",
+		"/C/Users/ArminZou/Desktop/Note.txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (19).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (20).txt",
+		"/C/Users/ArminZou/Desktop/Gitlab ssh.txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (22).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (21).txt",
+		"/C/Users/ArminZou/Desktop/Configuration entity.txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (15).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (14).txt",
+		"/C/Users/ArminZou/Desktop/Test.txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (13).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (12).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (11).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (8).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (10).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (9).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (1).txt",
+		"/C/Users/ArminZou/Downloads/SMS_Messages (4).txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "find_sum_with_pair.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
